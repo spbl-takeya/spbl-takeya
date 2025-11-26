@@ -10,5 +10,5 @@
   <img align="left" src="https://github-readme-stats-pi-blush-16.vercel.app/api?username=spbl-takeya&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-git-master-spbl-takeyas-projects.vercel.app/api/top-langs/?username=spbl-takeya&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats-pi-blush-16.vercel.app/api/top-langs/?username=spbl-takeya&theme=tokyonight" />
 </a> -->
